@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<votes name="政改方案 - 排除2012普選立法會" subName="就修改立法會產生辦法提出的議案" date="25/6/2010" desc="政府提出2012年行政長官及立法會產生辦法之改革建議，當中不少地方均參照2005年被否決的方案。
+行政長官的選舉方面，負責選出行政長官的委員會將會由800人加至1200人，所需提名人數升至150人。立法會選舉方面，立法會席位升至70席，地區直選與功能組別各加5席。新功能組別的產生，根據政府原方案，是由民選區議員互選產生。&lt;br&gt;&lt;br&gt;民意調查顯示，反對政改的人數較支持方案的人多，但在表決前幾天，民主黨提出的「一人兩票」方案獲中央接受，中聯辦副主任李剛更與民主黨何俊仁、劉慧卿及張文光會面，自此民主黨被指與中聯辦有「檯底交易」，更被指已被中央「河蟹」。&lt;br&gt;&lt;br&gt;最終，議案在民主黨支持下獲通過。" result="yes" cause="足三份二贊成">
+	<yes>
+		<vote ext="http://www.youtube.com/watch?v=m8ePxCKwNwQ#t=13s">何俊仁</vote>
+		<vote ext="http://www.youtube.com/watch?v=-nubdKTkU84#t=252s">劉慧卿</vote>
+		<vote>李華明</vote>
+		<vote>涂謹申</vote>
+		<vote>李永達</vote>
+		<vote>甘乃威</vote>
+		<vote>黃成智</vote>
+		<vote>張文光</vote>
+		<vote>馮檢基</vote>
+		<vote>李國麟</vote>
+		<vote>陳鑑林</vote>
+		<vote>劉江華</vote>
+		<vote>譚耀宗</vote>
+		<vote>張學明</vote>
+		<vote>李慧琼</vote>
+		<vote>陳克勤</vote>
+		<vote>黃容根</vote>
+		<vote>黃定光</vote>
+		<vote>葉國謙</vote>
+		<vote>王國興</vote>
+		<vote>黃國健</vote>
+		<vote>葉偉明</vote>
+		<vote>潘佩璆</vote>
+		<vote>梁美芬</vote>
+		<vote>何鍾泰</vote>
+		<vote>石禮謙</vote>
+		<vote>劉秀成</vote>
+		<vote>梁劉柔芬</vote>
+		<vote>劉皇發</vote>
+		<vote>林健鋒</vote>
+		<vote>梁君彥</vote>
+		<vote>劉健儀</vote>
+		<vote>張宇人</vote>
+		<vote>方剛</vote>
+		<vote>葉劉淑儀</vote>
+		<vote>李鳳英</vote>
+		<vote>林大輝</vote>
+		<vote>陳茂波</vote>
+		<vote>陳健波</vote>
+		<vote>梁家騮</vote>
+		<vote>譚偉豪</vote>
+		<vote>李國寶</vote>
+		<vote>黃宜弘</vote>
+		<vote>霍震霆</vote>
+		<vote>詹培忠</vote>
+		<vote>謝偉俊</vote>
+
+	</yes>
+	<no>
+		<vote>余若薇</vote>
+		<vote>梁家傑</vote>
+		<vote>吳靄儀</vote>
+		<vote>陳淑莊</vote>
+		<vote>湯家驊</vote>
+		<vote>李卓人</vote>
+		<vote>何秀蘭</vote>
+		<vote>黃毓民</vote>
+		<vote>陳偉業</vote>
+		<vote>梁耀忠</vote>
+		<vote>張國柱</vote>
+		<vote>鄭家富</vote>
+	</no>
+	<aban>
+		<vote ext="http://www.youtube.com/watch?v=LlxO3MJRHCU">梁國雄</vote>
+		<!--<vote ext="1">石禮謙</vote>
+		<vote ext="1">梁美芬</vote>
+		<vote ext="1">何鍾泰</vote>
+		<vote ext="1">林健鋒</vote>
+		<vote ext="1">陳健波</vote>-->
+	</aban>
+	<resources>
+		<resource link="http://zh.wikipedia.org/wiki/2012%E5%B9%B4%E9%A6%99%E6%B8%AF%E6%94%BF%E6%B2%BB%E5%88%B6%E5%BA%A6%E6%94%B9%E9%9D%A9#2010.E5.B9.B4">2012年香港政治制度改革</resource>
+		<resource link="http://www.youtube.com/watch?v=fJLM3BDLUf0#t=242s">余若薇議員發言</resource>
+	</resources>
+</votes>

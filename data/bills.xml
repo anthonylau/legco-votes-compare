@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bills>
+ <bill code="">------第三屆立法會(2004-2008)------</bill>
+ <bill code="link">要求擱置領匯私有化</bill>
+ <bill code="corrupt">阻止特首豁免於防賄條例</bill>
+ <bill code="">------第四屆立法會(2008-2012)------</bill>
+ <bill code="lehman">表決成立專責小組跟進雷曼事件</bill>
+ <bill code="link2">「回購領匯股份」議案</bill>
+ <bill code="labour">立法制訂勞工集體談判權</bill>
+ <bill code="june4th">「六四事件二十週年」議案</bill>
+ <bill code="july1st">「正視七一遊行市民的訴求」議案</bill>
+ <bill code="press">「捍衛新聞自由」議案</bill>
+ <bill code="rail">高鐵669億撥款申請</bill>
+ <bill code="bid">要求撤銷「降低強制拍賣門檻」</bill>
+ <bill code="harmony">「破除財閥壟斷、促進社會和諧」議案</bill>
+ <bill code="occu">「檢討職業安全健康及僱員補償制度」議案</bill>
+ <bill code="elect1">政改方案 - 排除2012普選行政長官</bill>
+ <bill code="elect2">政改方案 - 排除2012普選立法會</bill>
+ <bill code="wage">訂立最低工資條例</bill>
+ <bill code="merge">「推動粵港區域經濟融合」議案</bill>
+ <bill code="edu">修正國民教育科課程</bill>
+ <bill code="mpf">提升強積金供款上限</bill>
+ <bill code="army">正式賦予駐港解放軍皇等權力</bill>
+ <bill code="acad">「捍衛學術自由與院校自主」議案</bill>
+ <bill code="cy1">優先處理新特首班子重組架構</bill>
+</bills>

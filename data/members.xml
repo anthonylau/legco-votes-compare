@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<council>
+<members>
+ <member party="dab" elect="geo">曾鈺成</member>
+ <member party="dp" elect="geo">何俊仁</member>
+ <member party="pf" elect="func">何鍾泰</member>
+ <member party="lap" elect="geo">李卓人</member>
+ <member party="ind" elect="func">李國寶</member>
+ <member party="dp" elect="geo">李華明</member>
+ <member party="cp" elect="func">吳靄儀</member>
+ <member party="dp" elect="geo">涂謹申</member>
+ <member party="dp" elect="func">張文光</member>
+ <member party="dab" elect="geo">陳鑑林</member>
+ <member party="es" elect="func" former="自由黨">梁劉柔芬</member>
+ <member party="nc" elect="geo">梁耀忠</member>
+ <member party="ind" elect="func">黃宜弘</member>
+ <member party="dab" elect="func">黃容根</member>
+ <member party="dab" elect="geo">劉江華</member>
+ <member party="es" elect="func" former="自由黨">劉皇發</member>
+ <member party="lp" elect="func">劉健儀</member>
+ <member party="dp" elect="geo" former="前綫">劉慧卿</member>
+ <member party="ind" elect="geo" former="民主黨">鄭家富</member>
+ <member party="ind" elect="func">霍震霆</member>
+ <member party="dab" elect="geo">譚耀宗</member>
+ <member party="pf" elect="func">石禮謙</member>
+ <member party="lu" elect="func">李鳳英</member>
+ <member party="lp" elect="func">張宇人</member>
+ <member party="ad" elect="geo">馮檢基</member>
+ <member party="cp" elect="geo">余若薇</member>
+ <member party="lp" elect="func">方剛</member>
+ <member party="ftu" elect="geo">王國興</member>
+ <member party="dp" elect="geo">李永達</member>
+ <member party="ind" elect="func">李國麟</member>
+ <member party="es" elect="func" former="自由黨">林健鋒</member>
+ <member party="es" elect="func" former="自由黨">梁君彥</member>
+ <member party="dab" elect="geo">張學明</member>
+ <member party="dab" elect="func">黃定光</member>
+ <member party="cp" elect="geo">湯家驊</member>
+ <member party="ind" elect="func">詹培忠</member>
+ <member party="pf" elect="func">劉秀成</member>
+ <member party="dp" elect="geo">甘乃威</member>
+ <member party="lap" elect="geo">何秀蘭</member>
+ <member party="dab" elect="geo">李慧琼</member>
+ <member party="ind" elect="func">林大輝</member>
+ <member party="dab" elect="geo">陳克勤</member>
+ <member party="ind" elect="func">陳茂波</member>
+ <member party="ind" elect="func">陳健波</member>
+ <member party="pf" elect="geo">梁美芬</member>
+ <member party="ind" elect="func">梁家騮</member>
+ <member party="lap" elect="func" former="民協">張國柱</member>
+ <member party="dp" elect="geo">黃成智</member>
+ <member party="ftu" elect="geo">黃國健</member>
+ <member party="ftu" elect="func">葉偉明</member>
+ <member party="dab" elect="func">葉國謙</member>
+ <member party="npp" elect="geo">葉劉淑儀</member>
+ <member party="ftu" elect="func">潘佩璆</member>
+ <member party="ind" elect="func">謝偉俊</member>
+ <member party="ind" elect="func">譚偉豪</member>
+ <member party="cp" elect="geo">梁家傑</member>
+ <member party="lsd" elect="geo">梁國雄</member>
+ <member party="cp" elect="geo">陳淑莊</member>
+ <member party="pp" elect="geo" former="社民連">陳偉業</member>
+ <member party="pp" elect="geo" former="社民連">黃毓民</member>
+ <member party="lp" elect="geo">田北俊</member>
+ <member party="pf" elect="func">呂明華</member>
+ <member party="dp" elect="geo">李柱銘</member>
+ <member party="dab" elect="geo">李國英</member>
+ <member party="lp" elect="geo">周梁淑怡</member>
+ <member party="ind" elect="func">林偉強</member>
+ <member party="ind" elect="geo">范徐麗泰</member>
+ <member party="dab" elect="geo">馬力</member>
+ <member party="lap" elect="func" former="公民黨">張超雄</member>
+ <member party="ind" elect="geo">陳方安生</member>
+ <member party="ftu" elect="geo" former="民建聯">陳婉嫻</member>
+ <member party="pf" elect="func">陳智思</member>
+ <member party="dp" elect="func">單仲偕</member>
+ <member party="lp" elect="func">楊孝華</member>
+ <member party="dp" elect="geo">楊森</member>
+ <member party="ctu" elect="geo">劉千石</member>
+ <member party="dab" elect="geo">蔡素玉</member>
+ <member party="ind" elect="geo">鄭經翰</member>
+ <member party="ind" elect="func">鄺志堅</member>
+ <member party="ind" elect="func">譚香文</member>
+ <member party="cp" elect="func">郭家麒</member>
+</members>
+<organs>
+	<organ code="ind">獨立議員</organ>
+	<organ code="dab">民建聯</organ>
+	<organ code="ftu">工聯會</organ>
+	<organ code="lp">自由黨</organ>
+	<organ code="es">經濟動力</organ>
+	<organ code="dp">民主黨</organ>
+	<organ code="cp">公民黨</organ>
+	<organ code="lsd">社民連</organ>
+	<organ code="ad">民協</organ>
+	<organ code="lap">工黨</organ>
+	<organ code="npp">新民黨</organ>
+	<organ code="pp">人民力量</organ>
+	<organ code="nc">街工</organ>
+	<organ code="ctu">職工盟</organ>
+	<organ code="pf">專業會議</organ>
+	<organ code="lu">勞聯</organ>
+</organs>
+</council>

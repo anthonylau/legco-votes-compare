@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<votes name="立法制訂勞工集體談判權" subName="「協助基層勞工抗衡經濟逆境」議案" date="4/2/2009" desc="金融海嘯下，基層打工仔首當其衝，遭無理減薪甚至遣散，勞工界要求當局立法給予勞工應有集體談判權，保障他們的權益。工聯會議員葉偉明在立法會會議上提出動議，就集體談判權立法，雖然得到民主黨、公民黨及多個勞工政團支持，不過，特區政府、自由黨和多位功能界別議員則表態不支持和民建聯棄權下，結果在分組點票時未獲功能界別過半數支持而遭否決。" result="no" cause="分組點票機制">
+	<yes col="4">
+		<vote>李卓人</vote>
+		<vote>何秀蘭</vote>
+		<vote>張國柱</vote>
+		<vote>王國興</vote>
+		<vote ext="http://paper.wenweipo.com/2009/02/05/HK0902050026.htm">葉偉明</vote>
+		<vote>潘佩璆</vote>
+		<vote>余若薇</vote>
+		<vote>湯家驊</vote>
+		<vote>吳靄儀</vote>
+		<vote>鄭家富</vote>
+		<vote>何俊仁</vote>
+		<vote>劉慧卿</vote>
+		<vote>張文光</vote>
+		<vote>甘乃威</vote>
+		<vote>李華明</vote>
+		<vote>涂謹申</vote>
+		<vote>李永達</vote>
+		<vote>梁耀忠</vote>
+		<vote>黃毓民</vote>
+		<vote>陳偉業</vote>
+		<vote>梁國雄</vote>
+		<vote>馮檢基</vote>
+		<vote>李鳳英</vote>
+		<vote>梁家騮</vote>
+	</yes>
+	<no col="2">
+		<vote>劉健儀</vote>
+		<vote ext="http://www.881903.com/page/zh-tw/newsdetail.aspx?ItemId=94053">張宇人</vote>
+		<vote>方剛</vote>
+		<vote>劉皇發</vote>
+		<vote>梁君彥</vote>
+		<vote>林健鋒</vote>
+		<vote>石禮謙</vote>
+		<vote>林大輝</vote>
+		<vote>陳茂波</vote>
+		<vote>譚偉豪</vote>
+		<vote>黃宜弘</vote>
+		<vote>霍震霆</vote>
+	</no>
+	<aban col="3">
+		<vote ext="1">譚耀宗</vote>
+		<vote ext="2">劉江華</vote>
+		<vote ext="2">陳鑑林</vote>
+		<vote ext="1">陳克勤</vote>
+		<vote ext="2">李慧琼</vote>
+		<vote ext="2">張學明</vote>
+		<vote ext="2">黃容根</vote>
+		<vote ext="2">黃定光</vote>
+		<vote ext="2">葉國謙</vote>
+		<vote ext="1">黃國健</vote>
+		<vote ext="1">黃成智</vote>
+		<vote ext="1">梁家傑</vote>
+		<vote ext="1">陳淑莊</vote>
+		<vote ext="1">梁美芬</vote>
+		<vote ext="2">葉劉淑儀</vote>
+		<vote ext="1">梁劉柔芬</vote>
+		<vote ext="2">何鍾泰</vote>
+		<vote ext="1">李國寶</vote>
+		<vote ext="1">李國麟</vote>
+		<vote ext="2">詹培忠</vote>
+		<vote ext="2">劉秀成</vote>
+		<vote ext="1">陳健波</vote>
+		<vote ext="1">謝偉俊</vote>
+	</aban>
+	<resources>
+		<resource link="http://paper.wenweipo.com/2009/02/05/HK0902050026.htm">勞工集體談判權立法動議被否決</resource>
+		<resource link="http://worldlabour.org/chi/node/76">立法保障「集體談判權」刻不容緩</resource>
+		<resource link="http://www.youtube.com/watch?v=p-Y2IaJuaIY">香港勞工五一遊行爭取集體談判權</resource>
+	</resources>
+</votes>

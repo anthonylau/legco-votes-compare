@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<votes name="要求撤銷「降低強制拍賣門檻」" subName="" date="17/3/2010" desc="條例生效後，樓齡超過五十年的舊樓，大業主只須取得八成業權便可強制進行拍賣。多名反對條例的議員發言時均表示，原則上不反對重建舊樓，但質疑強拍未能保障小業主權利。&lt;br&gt;&lt;br&gt;而由五名泛民主派議員及匯賢智庫葉劉淑儀提出的十四項修訂，最終全數遭到否決，其中由民主黨涂謹申提出，要求將條例押後一年實施的修訂，整體得到二十九名議員支持，只有二十二人反對，但由於反對的大多為功能組別議員，令無法通過分組點票。" result="no" cause="分組點票機制">
+	<yes>
+		<vote>余若薇</vote>
+		<!--<vote>梁家傑</vote>
+		<vote>陳淑莊</vote>-->
+		<vote ext="http://www.youtube.com/watch?v=aLVrrduI5lo">湯家驊</vote>
+		<vote>何俊仁</vote>
+		<vote>李華明</vote>
+		<vote>甘乃威</vote>
+		<vote>涂謹申</vote>
+		<vote>劉慧卿</vote>
+		<vote>李永達</vote>
+		<vote>黃成智</vote>
+		<vote>張文光</vote>
+		<vote>鄭家富</vote>
+		<vote>李卓人</vote>
+		<!--<vote>黃毓民</vote>-->
+		<!--<vote>陳偉業</vote>
+		<vote>梁國雄</vote>-->
+		<vote>何秀蘭</vote>
+		<vote>張國柱</vote>
+		<vote>馮檢基</vote>
+		<vote>梁耀忠</vote>
+		<vote>葉劉淑儀</vote>
+		<vote>李國麟</vote>
+	</yes>
+	<no>
+		<vote>譚耀宗</vote>
+		<vote>陳鑑林</vote>
+		<vote>劉江華</vote>
+		<vote>張學明</vote>
+		<vote>李慧琼</vote>
+		<vote>陳克勤</vote>
+		<vote>葉國謙</vote>
+		<vote>黃容根</vote>
+		<vote>黃定光</vote>
+		<vote>王國興</vote>
+		<vote>黃國健</vote>
+		<vote>潘佩璆</vote>
+		<vote>葉偉明</vote>
+		<vote>劉健儀</vote>
+		<vote>張宇人</vote>
+		<vote>方剛</vote>
+		<vote>劉皇發</vote>
+		<vote>林健鋒</vote>
+		<vote>梁劉柔芬</vote>
+		<vote>梁君彥</vote>
+		<vote>梁美芬</vote>
+		<vote>石禮謙</vote>
+		<vote>何鍾泰</vote>
+		<vote>劉秀成</vote>
+		<vote>李鳳英</vote>
+		<vote>黃宜弘</vote>
+		<vote>霍震霆</vote>
+		<vote>謝偉俊</vote>
+		<vote>林大輝</vote>
+		<vote>陳茂波</vote>
+		<vote>陳健波</vote>
+		<vote>譚偉豪</vote>
+	</no>
+	<aban>
+		<vote ext="1">吳靄儀</vote>
+		<vote ext="1">李國寶</vote>
+		<vote ext="1">詹培忠</vote>
+		<vote ext="2">梁家騮</vote>
+	
+	</aban>
+	<resources>
+		<resource link="http://zh.wikipedia.org/wiki/%E5%BC%B7%E5%88%B6%E6%8B%8D%E8%B3%A3">維基百科 - 強制拍賣</resource>
+		<resource link="http://www2.news.sina.com.hk/cgi-bin/nw/show.cgi/2/1/1/1461852/1.html">強拍條例爭議聲中通過</resource>
+		<resource link="http://www.inmediahk.net/node/1006468">供完一世都仲要強制拍賣</resource>
+	</resources>
+</votes>

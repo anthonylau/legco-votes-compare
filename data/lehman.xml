@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<votes name="表決成立專責小組跟進雷曼事件" subName="" date="10/10/2008" desc="雷曼迷你債券事件，民建聯於立法會門外，承諾為雷曼苦主撐到底﹗追到底﹗要團結﹗立法會門內，民建聯團結一致投反對票，否決了成立專責小組跟進雷曼事件的動議。" result="no" cause="分組點票機制">
+	<yes col="4">
+		<vote>何俊仁</vote>
+		<vote>李永達</vote>
+		<vote>甘乃威</vote>
+		<vote>劉慧卿</vote>
+		<vote>李華明</vote>
+		<vote>張文光</vote>
+		<vote>鄭家富</vote>
+		<vote>湯家驊</vote>
+		<vote>余若薇</vote>
+		<vote>陳淑莊</vote>
+		<vote>梁家傑</vote>
+		<vote>李卓人</vote>
+		<vote>張國柱</vote>
+		<vote>黃毓民</vote>
+		<vote>陳偉業</vote>
+		<vote>梁國雄</vote>
+		<vote>馮檢基</vote>
+		<vote>何秀蘭</vote>
+		<vote>梁美芬</vote>
+		<vote>謝偉俊</vote>
+		<vote>詹培忠</vote>
+	</yes>
+	<no col="4">
+		<vote ext="http://www.youtube.com/watch?v=EOxeJEkDko0">劉江華</vote>
+		<vote>陳鑑林</vote>
+		<vote>譚耀宗</vote>
+		<vote>李慧琼</vote>
+		<vote>陳克勤</vote>
+		<vote>張學明</vote>
+		<vote>黃定光</vote>
+		<vote>黃容根</vote>
+		<vote>黃國健</vote>
+		<vote>王國興</vote>
+		<vote>葉偉明</vote>
+		<vote>梁君彥</vote>
+		<vote>林健鋒</vote>
+		<vote>劉皇發</vote>
+		<vote>石禮謙</vote>
+		<vote>葉劉淑儀</vote>
+		<vote>方剛</vote>
+		<vote>梁劉柔芬</vote>
+		<vote>李鳳英</vote>
+		<vote>霍震霆</vote>
+		<vote>譚偉豪</vote>
+		<vote>陳健波</vote>
+	</no>
+	<aban col="1">
+		<vote ext="1">吳靄儀</vote>
+		<vote ext="1">涂謹申</vote>
+		<vote ext="1">黃成智</vote>
+		<vote ext="1">葉國謙</vote>
+		<vote ext="1">潘佩璆</vote>
+		<vote ext="1">黃宜弘</vote>
+		<vote ext="1">李國麟</vote>
+	</aban>
+	<resources>
+		<resource link="http://www.youtube.com/watch?v=EOxeJEkDko0">劉江華議員承諾為苦主追到底</resource>
+	</resources>
+</votes>
